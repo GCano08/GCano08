@@ -18,7 +18,7 @@ negócios.”
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?GCano08=GCano08&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GCano08&show_icons=true&theme=radical)
 
 ## 🤝 Conecte-se Comigo
 
