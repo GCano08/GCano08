@@ -26,8 +26,8 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante apaixonado por desenvolvimen
 ### [🍭 Gi Doce Magia](https://github.com/GCano08/gi-doce-magia)
 Um site responsivo para uma loja de doces, utilizando HTML, CSS, JavaScript e Bootstrap.
 
-### [📊 Aplicação de Gestão Rural](https://github.com/GCano08/rural-management)
-Uma aplicação para gerenciamento de propriedades rurais, com funcionalidades de cadastro de incidentes e gráficos de apólices.
+### [✅ To-Do List com Tema Personalizável](https://gcano08.github.io/To-Do-List/)
+Aplicação simples de To-Do List com funcionalidades de adicionar, remover e filtrar tarefas, além de alternar entre temas claro e escuro. As tarefas são salvas no navegador via LocalStorage.
 
 ### [🔐 API de Controle de Pedidos](https://github.com/GCano08/order-api)
 API para gerenciar pedidos de um restaurante, com rotas CRUD completas.
