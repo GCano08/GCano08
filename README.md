@@ -27,7 +27,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante apaixonado por desenvolvimen
 Um site responsivo para uma loja de doces, utilizando HTML, CSS, JavaScript e Bootstrap.
 
 ### [✅ To-Do List com Tema Personalizável](https://gcano08.github.io/To-Do-List/)
-Aplicação simples de To-Do List com funcionalidades de adicionar, remover e filtrar tarefas, além de alternar entre temas claro e escuro. As tarefas são salvas no navegador via LocalStorage.
+Aplicação simples de To-Do List com funcionalidade de adicionar tarefas, além de alternar entre temas claro e escuro. As tarefas são salvas no navegador via LocalStorage.
 
 ## 🎯 Objetivos Futuros
 
