@@ -29,9 +29,6 @@ Um site responsivo para uma loja de doces, utilizando HTML, CSS, JavaScript e Bo
 ### [✅ To-Do List com Tema Personalizável](https://gcano08.github.io/To-Do-List/)
 Aplicação simples de To-Do List com funcionalidades de adicionar, remover e filtrar tarefas, além de alternar entre temas claro e escuro. As tarefas são salvas no navegador via LocalStorage.
 
-### [🔐 API de Controle de Pedidos](https://github.com/GCano08/order-api)
-API para gerenciar pedidos de um restaurante, com rotas CRUD completas.
-
 ## 🎯 Objetivos Futuros
 
 - Desenvolver habilidades em C#.
