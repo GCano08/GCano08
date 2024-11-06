@@ -20,7 +20,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante apaixonado por desenvolvimen
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GCano08&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GCano08&show_icons=true&theme=dark)
 
 ## 🔥 Projetos em Destaque
 ### [🍭 Gi Doce Magia](https://github.com/GCano08/gi-doce-magia)
