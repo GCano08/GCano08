@@ -23,8 +23,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante apaixonado por desenvolvimen
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GCano08&show_icons=true&theme=radical)
 
 ## 🔥 Projetos em Destaque
-### [🍭 Gi Doce Magia](https://github.com/GCano08/gi-doce-magia)
-Site responsivo para a loja de doces Gi Doce Magia, utilizando HTML, CSS, JavaScript e Bootstrap. O projeto inclui um design moderno, verificações de segurança, e uma experiência otimizada para mobile, com seções como header, carrossel de banners, catálogo, e footer personalizado.
 
 ### [✅ To-Do List com Tema Personalizável](https://gcano08.github.io/To-Do-List/)
 Aplicação simples de To-Do List com funcionalidade de adicionar tarefas, além de alternar entre temas claro e escuro. As tarefas são salvas no navegador via LocalStorage.
