@@ -10,6 +10,8 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante apaixonado por desenvolvimen
 
 ## 🛠️ Tecnologias e Ferramentas
 
+## 🛠️ Tecnologias e Ferramentas
+
 | Linguagens               | Frameworks e Bibliotecas       | Ferramentas e Plataformas       |
 |-------------------------|---------------------------------|----------------------------------|
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)   | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)  |
@@ -17,6 +19,8 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante apaixonado por desenvolvimen
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)       | ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  | ![Newtonsoft](https://img.shields.io/badge/Newtonsoft-00A6D6?style=flat-square&logo=nuget&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)      |                                 |                                  |
+
 
 ## 📈 Estatísticas do GitHub
 
