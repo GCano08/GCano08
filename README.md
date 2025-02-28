@@ -34,8 +34,7 @@ Aplicação simples de To-Do List com funcionalidade de adicionar tarefas, além
 
 ## 🎯 Objetivos Futuros
 
-- Desenvolver habilidades em C#.
-- Ser medalhista na "São Paulo Skills".
+- Desenvolver habilidades em programação e análise de dados.
 - Encontrar uma empresa que tenha as metas alinhadas com as minhas.
 
 ## 🤝 Conecte-se Comigo
