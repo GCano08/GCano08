@@ -2,17 +2,12 @@
 
 Bem-vindo ao meu perfil do GitHub! Sou um estudante apaixonado por desenvolvimento de software. Aqui você encontrará informações sobre mim, meus interesses e projetos.
 
-# 🚀 Sobre Mim
+## 🚀 Sobre Mim
 
-## 📍 Localização
-Presidente Prudente, Brasil
-
-## 💼 Experiência Profissional
-Competidor na olimpíada do conhecimento **São Paulo Skills** pelo **Senai Santo Paschoal Crepaldi**, na modalidade **Soluções de Softwares para Negócios**.
-
-## 🎓 Formação
-- **Graduação:** Cursando **Sistemas de Informação**
-- **Técnico:** **Desenvolvimento de Sistemas** - Senai
+- **📍 Localização:** Presidente Prudente, Brasil
+- **💼 Experiência Profissional:** Competidor na olimpíada do conhecimento “São Paulo Skills” pelo Senai Santo Paschoal Crepaldi, representando a modalidade “Soluções de Softwares para Negócios.”
+- **🎓 Formação técnica:** Técnico em Desenvolvimento de Sistemas - Senai
+- **🎓 Formação superior:** Cursando Sistemas de Informação - Unoeste
   
 
 ## 🛠️ Tecnologias e Ferramentas
